@@ -3,42 +3,40 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arvindhvetri)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linkedin.com/in/arvindhvetri)
 
-### Glad to see you here! &nbsp;
+### 🎉 Woohoo! You Found Me — Welcome to my Little Corner of the Cloud! ☁️👨‍💻 &nbsp;
 
-I am a Cloud & DevOps writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+👋 A passionate Cloud ☁️ and DevOps ⚙️ enthusiast on a journey to build scalable, reliable systems.<br>
+💻 I work with tools like Docker 🐳, Kubernetes ☸️, Jenkins 🤖, and Terraform 🌍 to automate and streamline workflows.<br>
+🚀 I love turning complex infrastructure challenges into clean, efficient solutions.<br>
+📚 Currently leveling up my skills in Cloud Architecture and DevOps engineering.<br>
+🌱 Always Learning, Always Evolving.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Observability;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: arvindhvetri@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Arvindh30).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something 🔥
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning <b>Observability</b>
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: arvindhvetri@gmail.com
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Arvindh30)
 
-</br>
+📊 **This Month I Spent My Time On:**
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
+```text
+Markdown      5 hrs 37 mins    █████████████░░░░░░░░░░░   45.32%
+Python        55 mins          ██████░░░░░░░░░░░░░░░░░░   24.10%
+JavaScript    44 mins          ████░░░░░░░░░░░░░░░░░░░░   18.42%
+YAML          35 mins          ██░░░░░░░░░░░░░░░░░░░░░░   7.60%
+Other         12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
 ```
 
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arvindh30&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindh30&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arvindh30&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindh30&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=8&theme=default&hide_border=true" />
 </p>
-
 
 
 
