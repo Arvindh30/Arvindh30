@@ -11,7 +11,7 @@
 📚 Currently leveling up my skills in Cloud Architecture and DevOps engineering.<br>
 🌱 Always Learning, Always Evolving.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="325" height="250" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="300" height="200" />
   
 
 **Talking about Personal Stuffs:**
